@@ -1,1 +1,1 @@
-# zszy_ios_yn_cs
+# zszy_ios_sctest
